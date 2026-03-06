@@ -1,5 +1,5 @@
 {
-    "name": "Bmbtech-baileys",
+    "name": "novaxmd-baileys",
     "version": "1.0.4",
     "description": "WhatsApp API Modification By Bmb Tech",
     "keywords": [
@@ -11,9 +11,9 @@
         "botwa",
         "bails"
     ],
-    "homepage": "https://github.com/novaxmd/Bmb-Baileys",
+    "homepage": "https://github.com/novaxmd/novaxmd-Baileys",
     "repository": {
-        "url": "https://github.com/novaxmd/Bmb-Baileys"
+        "url": "https://github.com/novaxmd/novaxmd-Baileys"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
